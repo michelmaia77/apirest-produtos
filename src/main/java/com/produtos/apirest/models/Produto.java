@@ -13,6 +13,7 @@ import javax.persistence.Table;
 @Table(name="TB_PRODUTO")
 public class Produto implements Serializable{
 	//teste para o leandro
+	//teste2
 	private static final long serialVersionUID = 1L;
 	
 	@Id
